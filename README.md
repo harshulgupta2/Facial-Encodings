@@ -1,4 +1,4 @@
-# Computer-Vision-Projects
+# Computer Vision Projects
 
 This repository contains python files to 
 
